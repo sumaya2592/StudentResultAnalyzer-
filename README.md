@@ -71,5 +71,4 @@ Predicted Average for 2025: 80.3
 - scikit-learn
 
 ## 📝 Author
-
-Created by **A S M Tauhid Rahman** to demonstrate basic data analysis and prediction with Python.
+personal
